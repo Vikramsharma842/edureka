@@ -1,0 +1,2 @@
+# edureka
+Practising Git command 
